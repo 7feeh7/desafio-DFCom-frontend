@@ -23,9 +23,6 @@ Desafio de programação com intuito de demonstrar meus conhecimentos nas seguin
 - [x] Pagina de usuario autenticado
 
 ## Instalação
-
-> OBS: E NECESSARIO CONFIGURAR O ARQUIVO .ENV
-
 1. Clonar o repositório:
 
     ```bash
